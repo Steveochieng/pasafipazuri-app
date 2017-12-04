@@ -1,6 +1,6 @@
 # pasafipazuri-app
 This is a social network application that help in environmental conservation
-# The team
+# THE TEAM
 * Phyllis Otieno
 * Yvonne Osawa
 * Hannington Dena
