@@ -12,3 +12,11 @@ This is a social network application that help in environmental conservation
 
 ## MARGARET NDICHU
 * I took part on research of literature review and on setting page  which was quite difficult to achieve on how to change theme on the whole PasafiPazuri application.
+
+##Stephen Ochieng
+l contributed to the success ou this apllication in the way below;
+* Took with the uml class diagram of the application.
+* designed and developed the menu in the whole application.
+* Brought the application into one piece by combining the codes from the team.
+* Acted as the team leader and assigned duties to the team and ensured they were done.
+* Took part in coming up with sketches of the application's user interface.
